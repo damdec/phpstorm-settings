@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="tpl" type="PHP" />
-      <removed_mapping ext="tpl" type="Smarty" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
     </extensionMap>
   </component>
 </application>
