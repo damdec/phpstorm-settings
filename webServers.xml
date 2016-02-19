@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="769f42ad-e54f-47e8-88ef-8e03ad7aeb11" name="localhost" url="http://poulpeo.dam">
+      <webServer id="6370cb75-c921-4c59-a4e7-5b3c68c5333a" name="Localhost" url="http://10.36.0.40">
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
