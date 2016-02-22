@@ -37,13 +37,13 @@
       <option name="CSS" value="false" />
       <option name="Twig" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JS_EXPRESSION" value="false" />
-      <option name="JSX_HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="false" />
       <option name="CoffeeScript" value="false" />
-      <option name="PHP" value="false" />
+      <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
       <option name="HAML" value="false" />
@@ -66,9 +66,9 @@
       <option name="CSS" value="false" />
       <option name="Twig" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JS_EXPRESSION" value="false" />
-      <option name="JSX_HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="false" />
       <option name="CoffeeScript" value="false" />
