@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="PLP" />
-    <option name="defaultScopeName" value="PLP" />
-    <option name="SEARCH_SCOPE" value="PLP" />
+    <option name="customScope" value="PLP/Src" />
+    <option name="defaultScopeName" value="PLP/Src" />
+    <option name="SEARCH_SCOPE" value="PLP/Src" />
   </component>
 </application>
