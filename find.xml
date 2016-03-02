@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/var/www/poulpeo/trunk/cron'" />
-    <option name="defaultScopeName" value="Directory '/var/www/poulpeo/trunk/cron'" />
-    <option name="SEARCH_SCOPE" value="Directory '/var/www/poulpeo/trunk/cron'" />
+    <option name="customScope" value="Directory '/var/www/poulpeo/trunk/ajax'" />
+    <option name="defaultScopeName" value="Directory '/var/www/poulpeo/trunk/ajax'" />
+    <option name="SEARCH_SCOPE" value="Directory '/var/www/poulpeo/trunk/ajax'" />
   </component>
 </application>
