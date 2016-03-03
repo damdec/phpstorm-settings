@@ -25,6 +25,10 @@
   </action>
   <action id="ParameterInfo" />
   <action id="RecentFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl e" />
