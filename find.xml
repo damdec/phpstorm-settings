@@ -3,5 +3,6 @@
     <option name="customScope" value="PLP/Src" />
     <option name="defaultScopeName" value="PLP/Src" />
     <option name="SEARCH_SCOPE" value="PLP/Src" />
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
