@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/var/www/poulpeo/trunk/exec'" />
-    <option name="defaultScopeName" value="Directory '/var/www/poulpeo/trunk/exec'" />
-    <option name="SEARCH_SCOPE" value="Directory '/var/www/poulpeo/trunk/exec'" />
+    <option name="customScope" value="File '/var/www/poulpeo/trunk/script/grunt/Gruntfile.js'" />
+    <option name="defaultScopeName" value="File '/var/www/poulpeo/trunk/script/grunt/Gruntfile.js'" />
+    <option name="SEARCH_SCOPE" value="File '/var/www/poulpeo/trunk/script/grunt/Gruntfile.js'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
