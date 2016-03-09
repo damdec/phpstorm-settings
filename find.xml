@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/var/www/poulpeo/trunk/mwm-admin/dist/api-docs'" />
     <option name="defaultScopeName" value="Directory '/var/www/poulpeo/trunk/mwm-admin/dist/api-docs'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/var/www/poulpeo/trunk/mwm-admin/dist/api-docs'" />
-    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
