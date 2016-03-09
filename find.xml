@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/var/www/poulpeo/trunk/mwm-admin'" />
-    <option name="defaultScopeName" value="Directory '/var/www/poulpeo/trunk/mwm-admin'" />
-    <option name="SEARCH_SCOPE" value="Directory '/var/www/poulpeo/trunk/mwm-admin'" />
+    <option name="customScope" value="PLP/Tpl" />
+    <option name="defaultScopeName" value="PLP/Tpl" />
+    <option name="SEARCH_SCOPE" value="PLP/Tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
