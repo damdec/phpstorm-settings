@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="PLP/Tpl" />
-    <option name="defaultScopeName" value="PLP/Tpl" />
-    <option name="SEARCH_SCOPE" value="PLP/Tpl" />
+    <option name="customScope" value="PLP/Src" />
+    <option name="defaultScopeName" value="PLP/Src" />
+    <option name="SEARCH_SCOPE" value="PLP/Src" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
