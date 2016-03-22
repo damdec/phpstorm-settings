@@ -79,4 +79,7 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="https://fonts.googleapis.com" />
+  </component>
 </application>
