@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/var/www/poulpeo/trunk/class/class.mwmUser.php'" />
-    <option name="defaultScopeName" value="File '/var/www/poulpeo/trunk/class/class.mwmUser.php'" />
-    <option name="SEARCH_SCOPE" value="File '/var/www/poulpeo/trunk/class/class.mwmUser.php'" />
+    <option name="customScope" value="PLP/Src" />
+    <option name="defaultScopeName" value="PLP/Src" />
+    <option name="SEARCH_SCOPE" value="PLP/Src" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
