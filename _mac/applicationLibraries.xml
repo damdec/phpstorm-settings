@@ -1,0 +1,31 @@
+<application>
+  <component name="libraryTable">
+    <library name="google.analytics-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_google.analytics_ga.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_google.analytics_ga.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="MooTools-1.4.5" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="MooTools" />
+        <option name="frameworkVersion" value="1.4.5" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_mootools.net_download_get_mootools-core-1.4.5-full-nocompat.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_mootools.net_download_get_mootools-core-1.4.5-full-nocompat.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://mootools.net/docs" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
