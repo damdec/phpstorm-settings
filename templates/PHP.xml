@@ -23,7 +23,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="vd" value="mwmDebug::vd($END$);" description="mwm var_dump()" toReformat="true" toShortenFQNames="true">
+  <template name="vd" value="mwmDebug::vd($END$);" description="mwm var_dump()" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="PHP" value="true" />
     </context>
